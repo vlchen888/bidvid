@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+data/
+gifs/
+out/
+tmp/
+
+deeplabv3_xception65_ade20k.h5
+output.png
